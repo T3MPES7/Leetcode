@@ -1,5 +1,6 @@
 //Time Complexity O(N^2)
 //Brute Force Method
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int length=nums.length; //Obtains the legnth of the array
